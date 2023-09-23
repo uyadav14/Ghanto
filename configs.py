@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "66479516b1d2e96747d3b552112007f6")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKoBuwIgdK5r28766M475Ih4e_FPbTIAS2UwoatY_YtXG8Yjn1QowUp69iIzlJ6pPIbY6w_ui-wgot6zMQbxoL0alGcwq-xchTclbfwtGJw6IfHnKumuJ13_wNLlsb9t83_sQeLzRpD94iCQ35YW-9br5hxkomxBlCfC2-XTkm7FgffjkkmCnwMrWfrDT333FKSmXmRg99LjEfHNzoP-X02lLH-10I1sHOwKgCsN5bZoJSMKJmOlYtm2DKcs4WfmiVOsumI1ydNvGJfvozdGTzBfZdONX3WpU2Hagfj1AaRHd04s8mk30ui532U1PTgmNy6t9UO2pq0CshIUysAbjbPluVA= ")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
